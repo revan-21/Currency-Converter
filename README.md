@@ -44,3 +44,5 @@ This project uses a free currency exchange API to fetch live rates.
 ## 👨‍💻 Author
 
 Revanasidda
+
+![image alt]()
