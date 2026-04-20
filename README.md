@@ -45,4 +45,4 @@ This project uses a free currency exchange API to fetch live rates.
 
 Revanasidda
 
-![image alt]()
+![image alt](https://github.com/revan-21/Currency-Converter/blob/main/Screenshot%202026-04-20%20132533.png?raw=true)
